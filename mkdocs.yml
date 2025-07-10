@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+# mkdocs gh-deploy --force
+site_name: My site
+site_url: https://blog.d111kc.top
+theme:
+  name: material
+
+
+extra:
+  include: CNAME
