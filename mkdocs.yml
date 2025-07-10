@@ -4,7 +4,89 @@ site_name: My site
 site_url: https://blog.d111kc.top
 theme:
   name: material
+  custom_dir: overrides
+  palette:
 
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  font: false
+  language: zh
+  # logo: assets/logo.png
+  icon:
+    logo: material/library
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    tag:
+      html: fontawesome/brands/html5
+      js: fontawesome/brands/js
+      css:  fontawesome/brands/css3
+
+  # favicon: images/favicon.png
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+
+    - navigation.tracking
+
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+    - navigation.sections
+
+    - navigation.prune 
+
+    - navigation.indexes
+
+    - toc.follow
+
+    - navigation.top
+
+    - search.suggest
+    - search.highlight
+    - search.share
 
 extra:
   include: CNAME
+  # homepage: https://example.com # click logo and go to homepage
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
+
+# tweak some colors or change the spacing of certain elements
+extra_css:
+  - stylesheets/extra.css
+
+# integrate another syntax highlighter or add some custom logic to your theme
+extra_javascript:
+  - javascripts/extra.js
+  - djavascripts/shortcuts.js
+
+plugins:
+  - search
+  - tags
+
+nav:
+  - Section:
+    - section/index.md 
+    - Page 1: section/page-1.md
+    - Page n: section/page-n.md
