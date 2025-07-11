@@ -4,6 +4,6 @@ hide:
   - toc
 --- -->
 
-# Section
+# 日常
 
-lorem
+这里记录我的日常生活。
