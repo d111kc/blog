@@ -1,5 +1,5 @@
 ---
-title: Some English words
+title: Some English words in ChinaDaily
 comment: true
 ---
 
@@ -25,4 +25,27 @@ comment: true
 - [ ] stereotype n.刻板印象
 - [ ] spouse n.配偶
 - [ ] discard v.抛弃，丢弃
+
+---
+
+- [ ] epic adj.史诗，惊人之举 adj.宏大的，壮丽的
+- [ ] trudge v.费力地走
+- [ ] dusty adj.布满灰尘的
+- [ ] suspend v.暂停，终止，推迟
+- [ ] asphalt v.&n.(铺)沥青
+- [ ] emblematic adj.典型的，象征的
+- [ ] microcosm n.缩影
+- [ ] alleviation n.减轻，缓和
+- [ ] portray v.描绘
+- [ ] anthropologist n.人类学家
+- [ ] methodology n.方法(论)，原则
+- [ ] gaunt adj.&v.(使)憔悴(的)，破败的
+- [ ] stoop v.俯身，弯腰
+- [ ] barometer n.晴雨表，指标，气压计
+- [ ] metamorphosis n.变形，质变
+- [ ] dwelling n.住宅，公寓
+- [ ] external n.&adj.外部(的)
+
+---
+
 - [ ] 
