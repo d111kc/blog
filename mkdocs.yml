@@ -103,14 +103,6 @@ extra_javascript:
   - javascripts/mathjax.js
   # - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
-plugins:
-  - search
-  - tags
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: date
-  - git-authors
-
 markdown_extensions:
   - abbr
   - admonition
@@ -156,6 +148,14 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+  - git-authors
+
 nav:
   - 主页: index.md
   - 日常:
@@ -166,6 +166,8 @@ nav:
     - reading/index.md
   - 日语学习:
     - jp/index.md
+    - jp/hiragana.md
   - 英语学习:
     - en/index.md
-    - en/words.md
+    - en/cd.md
+    - en/fcc.md
