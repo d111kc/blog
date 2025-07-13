@@ -3,6 +3,8 @@ title: Some English words in ChinaDaily
 comment: true
 ---
 
+`创建于2025-7-12`
+
 - [ ] designate v.指定，指派 adj.尚未就职的
 - [ ] reproductive adj.生殖的，繁殖的
 - [ ] profound adj.意义深远的，彻底的
@@ -48,4 +50,21 @@ comment: true
 
 ---
 
+- [ ] pave v.铺路 n.铺路的材料
+- [ ] witty adj.机智的，妙趣横生的
+- [ ] prevail v.盛行，战胜，压倒，被接受
+- [ ] proceeding adj.前面的
+- [ ] prudent adj.谨慎的，节俭的
+- [ ] mobility n.流动性
+- [ ] revival n.复兴，重演，再流行
+- [ ] stake n.股份 v.以……打赌
+- [ ] diminish v.减少，降低
+- [ ] fetch v.拿来，请来
+- [ ] perception n.感知，看法，见解
+- [ ] hierarchical adj.等级制的，按等级划分的
+- [ ] multistory adj.多层的 n.多层建筑
+- [ ] obsession n.痴迷，困扰
+- [ ] nurture v.培养，支持
+- [ ] unleash v.使爆发，发泄，突然释放
+- [ ] rigid adj.坚硬的，刻板的，严格的，精确的
 - [ ] 
