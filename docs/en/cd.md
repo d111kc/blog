@@ -3,7 +3,7 @@ title: Some English words in ChinaDaily
 comment: true
 ---
 
-`创建于2025-7-12`
+## July 11, 2025
 
 - [ ] designate v.指定，指派 adj.尚未就职的
 - [ ] reproductive adj.生殖的，繁殖的
@@ -30,6 +30,8 @@ comment: true
 
 ---
 
+## July 12, 2025
+
 - [ ] epic adj.史诗，惊人之举 adj.宏大的，壮丽的
 - [ ] trudge v.费力地走
 - [ ] dusty adj.布满灰尘的
@@ -50,6 +52,8 @@ comment: true
 
 ---
 
+## July 13, 2025
+
 - [ ] pave v.铺路 n.铺路的材料
 - [ ] witty adj.机智的，妙趣横生的
 - [ ] prevail v.盛行，战胜，压倒，被接受
@@ -67,4 +71,27 @@ comment: true
 - [ ] nurture v.培养，支持
 - [ ] unleash v.使爆发，发泄，突然释放
 - [ ] rigid adj.坚硬的，刻板的，严格的，精确的
+
+--- 
+
+## July 14, 2025
+
+- [ ] legacy n.遗产，后遗症 adj.已停产的
+- [ ] proportion n。比例，部分，份额
+- [ ] cement v.加强，巩固 v.&n.（用水泥、胶等）粘接
+- [ ] grapple v.&n.扭打，格斗
+- [ ] mount v.&n.组织开展，逐步增加，安装
+- [ ] infrastructure n.基础设施，基础建设
+- [ ] frontier n.边界，国界 adj.边疆的
+- [ ] fluctuation n.波动，涨落，起伏
+- [ ] inventory n.库存，清单 v.列清单
+- [ ] logistics n.物流，后勤
+- [ ] flaw v.损害，缺陷，削弱
+- [ ] pivot n.支点，中心
+- [ ] textile n.&adj.纺织品（的）
+- [ ] compliance n.遵从，服从
+- [ ] asset n.资产，优点
+- [ ] morph v.&n.变形，变体，改变
+- [ ] flashy adj.炫耀技艺的，显眼的，浮华的
+- [ ] exponential n.&adj.指数（的）
 - [ ] 
