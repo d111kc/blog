@@ -3,7 +3,9 @@ title: Some English words in ChinaDaily
 comment: true
 ---
 
-## July 11, 2025
+## 2025
+
+### July 11
 
 - [ ] designate v.指定，指派 adj.尚未就职的
 - [ ] reproductive adj.生殖的，繁殖的
@@ -30,7 +32,7 @@ comment: true
 
 ---
 
-## July 12, 2025
+### July 12
 
 - [ ] epic adj.史诗，惊人之举 adj.宏大的，壮丽的
 - [ ] trudge v.费力地走
@@ -52,7 +54,7 @@ comment: true
 
 ---
 
-## July 13, 2025
+### July 13
 
 - [ ] pave v.铺路 n.铺路的材料
 - [ ] witty adj.机智的，妙趣横生的
@@ -74,7 +76,7 @@ comment: true
 
 --- 
 
-## July 14, 2025
+### July 14
 
 - [ ] legacy n.遗产，后遗症 adj.已停产的
 - [ ] proportion n。比例，部分，份额
@@ -94,4 +96,23 @@ comment: true
 - [ ] morph v.&n.变形，变体，改变
 - [ ] flashy adj.炫耀技艺的，显眼的，浮华的
 - [ ] exponential n.&adj.指数（的）
+
+---
+
+### July 15
+
+- [ ] grassroot n.草根阶层，基层工作
+- [ ] anchor v.&n.（抛）锚 n.顶梁柱，给与安全感的人或物
+- [ ] apricot n.杏子，杏黄色
+- [ ] orchard n.果园
+- [ ] scatter v.使分散，散开
+- [ ] bountiful and.大量的，慷慨的，巨大的
+- [ ] plateau n.高原，稳定期，停滞期 v.保持稳定水平
+    - [ ] Loess Plateau 黄土高原
+- [ ] certify v.证明，正式，颁发合格证书
+- [ ] beverage n.饮料（可数名词）
+- [ ] livestream v.&n.网络直播
+- [ ] jurisdiction n.管辖范围，司法权，审判权
+- [ ] collaborate v.合作，协作
+- [ ] rural vitalization 乡村振兴
 - [ ] 
