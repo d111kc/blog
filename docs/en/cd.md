@@ -115,4 +115,49 @@ comment: true
 - [ ] jurisdiction n.管辖范围，司法权，审判权
 - [ ] collaborate v.合作，协作
 - [ ] rural vitalization 乡村振兴
+
+### July 16
+
+- [ ] insularity n.孤立，岛国性
+- [ ] multipolar adj.多级的
+- [ ] ground adj.持有合理态度的 v.搁浅
+- [ ] revoke v.撤销，废除 n.废弃
+- [ ] spark v.引发，冒火花
+- [ ] outrage n.&v.愤怒，激怒
+- [ ] lament adj.使人思念的 v.痛惜
+- [ ] decry v.谴责，批评
+- [ ] xenophobic adj.仇外的，惧外的
+- [ ] undertone n.弦外之音，寓意
+- [ ] inflection n.语调的抑扬变化，弯曲
+- [ ] confine v.限制，监禁
+- [ ] cosmopolitan adj.世界性的，见识广的，全球各国的 n.周游世界的人
+- [ ] dissipate v.消散，消失，挥霍
+- [ ] unravel v.解开，拆散，拆开
+- [ ] narrative n.叙述，描述
+- [ ] realignment n.重组，重整
+- [ ] signal v.发信号
+- [ ] redirect v.改变投递方向，重新使用
+- [ ] mobility n.流动性
+- [ ] unidirectional adj.单向的，单方面的
+- [ ] outbound adj.向外的，出港的，离开某地的
+- [ ] trickle v.缓慢移动 n.涓涓细流
+- [ ] obsolete adj.&v.&n.过时的，淘汰（的），废弃（的），废弃的东西
+- [ ] assert v.断言，明确肯定，坚持自己的主张
+- [ ] agenda n.议程
+- [ ] peripheral adj.外围的，周边的，次要的，附带的 n.周边设备
+- [ ] multilingual adj.&n.说多种语言的（人）
+- [ ] contemplate v.考虑
+- [ ] collectively adv.共同地，集体地
+- [ ] paradigm n.范式，典范，样式
+- [ ] aspiring adj.有志向的
+- [ ] singular adj.&n.单数（的），非凡的，奇特的
+- [ ] beacon n.信标，灯标
+- [ ] imperative adj.必要的，紧急的，命令的 n.祈使语句，重要紧急的事情
+- [ ] restrictive adj.限制性的，约束的
+- [ ] circuit v.巡回旅行 n.电路，线路，巡回赛，环形路线
+- [ ] ideological adj.意识形态的，思想体系的
+- [ ] retrenchment n.缩减
+- [ ] evenly adv.均匀，平均，镇静地，有规律地
+- [ ] mobilize v.动员，调动
+- [ ] adjunct n.辅助，附件，修饰成分 adj.附属的
 - [ ] 
