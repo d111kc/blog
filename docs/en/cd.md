@@ -160,4 +160,26 @@ comment: true
 - [ ] evenly adv.均匀，平均，镇静地，有规律地
 - [ ] mobilize v.动员，调动
 - [ ] adjunct n.辅助，附件，修饰成分 adj.附属的
+
+---
+
+### July 17
+
+- [ ] facilitation n.促进，便利
+- [ ] inbound adj.到达的，归航的
+- [ ] favorable adj.有利的，讨人喜欢的，赞许的
+- [ ] Indonesia n.印度尼西亚
+- [ ] eligible adj.有资格的，合格的 n.合格者
+- [ ] transit v.经过，穿过 n.过境，运输，通行
+- [ ] unilateral adj.单方面的
+- [ ] Brazil n.巴西
+- [ ] Argentina n.阿根廷
+- [ ] Chile n.智利
+- [ ] Malaysia n.马来西亚
+- [ ] humanitarian n.&adj.人道主义（的）
+- [ ] embassy n.大使馆
+- [ ] Poland n.波兰
+- [ ] spare v.抽出，免去
+- [ ] cumbersome adj.冗长的，复杂的，累赘的
+- [ ] momentum n.势头，动力
 - [ ] 
