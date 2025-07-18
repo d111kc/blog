@@ -182,4 +182,20 @@ comment: true
 - [ ] spare v.抽出，免去
 - [ ] cumbersome adj.冗长的，复杂的，累赘的
 - [ ] momentum n.势头，动力
+
+---
+
+### July 18
+
+- [ ] weave v.&n.编织
+- [ ] revitalize v.使恢复
+- [ ] iconic adj.标志性的，符号的
+- [ ] feature v.以……为特色，由……主演，起重要作用，以……为主要组成 n.特征，特色，特点，特写，专题节目
+- [ ] blend v.&n.混合，融合
+- [ ] aesthetic n.（审）美学
+- [ ] silhouette n.剪影，侧影，形状，体型 v.&n.（使呈现）暗色轮廓
+- [ ] mimic v.&n.&adj.模仿，拟态
+- [ ] scheme n.方案，计划 v.认为，密谋
+- [ ] contemporary adj.当代的，现代的 n.同龄人
+- [ ] debut v.&n.&adj.首次亮相，首次出版
 - [ ] 
