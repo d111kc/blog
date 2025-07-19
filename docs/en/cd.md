@@ -142,8 +142,8 @@ comment: true
 - [ ] outbound adj.向外的，出港的，离开某地的
 - [ ] trickle v.缓慢移动 n.涓涓细流
 - [ ] obsolete adj.&v.&n.过时的，淘汰（的），废弃（的），废弃的东西
-- [ ] assert v.断言，明确肯定，坚持自己的主张
-- [ ] agenda n.议程
+- [x] assert v.断言，明确肯定，坚持自己的主张
+- [x] agenda n.议程
 - [ ] peripheral adj.外围的，周边的，次要的，附带的 n.周边设备
 - [ ] multilingual adj.&n.说多种语言的（人）
 - [ ] contemplate v.考虑
@@ -198,4 +198,44 @@ comment: true
 - [ ] scheme n.方案，计划 v.认为，密谋
 - [ ] contemporary adj.当代的，现代的 n.同龄人
 - [ ] debut v.&n.&adj.首次亮相，首次出版
+
+### July 19
+
+- [ ] blare v.发出声音 n.响亮刺耳的声音
+- [ ] unity n.团结一致，完整，和谐
+- [ ] separatist n.分离主义者，独立主义者
+- [ ] rhetoric n.修辞，花言巧语
+- [ ] proclaim v.宣布，宣告，声明
+- [ ] pragmatic adj.实用的，务实的
+- [ ] exploit v.开发，利用，剥削
+- [ ] doctrine n.学说，信条，主义
+- [ ] complication n.汇编，编写，收集
+- [ ] statute n.法规，章程，法令
+- [ ] populist n.&adj.民粹主义者（的），平民主义者（的）
+- [ ] distort v.扭曲，曲解
+- [ ] colonialism n.殖民主义
+    - [ ] colonial adj.殖民的
+- [ ] assembly n.会议，机会，立法机构，装配
+- [ ] resolve v.解决，决定 n.决心
+- [ ] sovereign n.君主，元首 adj.有主权的
+- [ ] entity n.实体，独立存在物
+- [ ] denial n.否认，否定
+- [ ] refute v.反驳，否认
+- [ ] unify v.统一
+- [ ] territory n.领土，地区
+- [ ] prolong v.延长
+- [ ] Dutch adj.&n.荷兰人（的）
+- [ ] Spanish adj.&n.西班牙人（的）
+- [ ] condemn v.谴责
+- [ ] confer v.商讨，授予，协商
+- [ ] affirm v.申明，断言 n.收到来电
+- [ ] contention n.看法，观点，争论
+- [ ] exclude v.排除，不包括
+- [ ] vehemently adv.激烈地，毫不客气地
+- [ ] expell v.驱逐
+- [ ] solidarity n.团结
+- [ ] integral adj.完整的，不可或缺的 n.整体，积分
+- [ ] illusion n.幻想，错觉
+- [ ] inherent adj.固有的，内在的
+- [ ] contradiction n.不一致，矛盾，反驳
 - [ ] 
