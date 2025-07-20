@@ -238,4 +238,61 @@ comment: true
 - [ ] illusion n.幻想，错觉
 - [ ] inherent adj.固有的，内在的
 - [ ] contradiction n.不一致，矛盾，反驳
+
+---
+
+### July 20
+
+- [ ] ghost n.鬼，幽灵
+- [ ] fantastical adj.异想天开的，空想的
+- [ ] otherworldly adj.超脱尘俗的，来世的
+- [ ] anticipate v.预期，预料，期望
+- [ ] animate v.使生机勃勃，把……制作成动画片
+    - [ ] animation n.动画
+- [ ] review v.&n.回顾，评估，修订，反思，写评论
+- [ ] blockbuster n.大轰动，非常成功的书籍或电影
+- [ ] domestic adj.国内的，家庭的，驯养的
+- [ ] celestial n.神仙 adj.天上的
+- [ ] frog n.青蛙
+- [ ] possess v.拥有，控制，支配
+- [ ] arbiter n.仲裁人，决定者
+- [ ] rivalry n.竞争，竞赛，较量
+    - [ ] reval n.竞争对手 v.与……相匹敌，比得上
+- [ ] reign v通知，成为最佳 n.任期
+- [ ] supreme adj.最高的，最重要的
+- [ ] tribute n.礼物，致敬，悼念
+- [ ] overall adj.总体的，全面的 adv.全部，总体上，总计，一般来说 n.外套，工装服
+- [ ] reveal v.揭示，显示 n.启示，窗框
+- [ ] echo v.回响，重复，发出回声
+- [ ] yearn v.&n.渴望，向往
+- [ ] brainstorm v.&n.集思广益，头脑风暴
+- [ ] assemble v.&n.组装，装配，收集
+- [ ] anthology n.选集
+- [ ] household n.家庭 adj.家庭的，家喻户晓的，家常的
+- [ ] recount v.讲述，叙述，重新清点
+- [ ] titular adj.名义上的，有名无实的 n.只有名义的人
+- [ ] Taoist n.道士 adj.道教的
+- [ ] priest n.牧师，僧侣 v.使成为教士
+- [ ] demonstrate v.证明，演示，论证
+- [ ] nostalgic adj.怀旧的 n.怀旧的人
+- [ ] render v.提供，使成为，提交，渲染
+- [ ] puppet n.木偶，傀儡
+- [ ] prop v.支撑 n.道具，支柱，支持者
+- [ ] monstrous adj.可怕的，巨大的，丑陋的
+- [ ] disguis v.&n.伪装，加班
+- [ ] kindhearted adj.厚道的
+- [ ] lighthearted adj.轻松愉快的，无忧无虑的
+- [ ] triumph v.&n.成功，胜利，战胜
+- [ ] seduction n.魅力，吸引力
+- [ ] lotus n.莲花
+- [ ] sinister adj.邪恶的，险恶的
+- [ ] symmetrical adj.对称的
+- [ ] incorporate v.包含，使并入，吸收
+- [ ] evoke v.引起
+- [ ] resonance n.共鸣
+- [ ] poignant adj.令人感伤的，强烈的
+- [ ] undying adj.永恒的，不朽的
+- [ ] reincarnation n.灵魂转世化身
+- [ ] reverse v.使反转，颠倒，撤销，废除 v.反面，倒挡，相反的情况
+- [ ] merchandise n.相关商品 v.推销
 - [ ] 
