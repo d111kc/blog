@@ -234,7 +234,8 @@ comment: true
 - [ ] vehemently adv.激烈地，毫不客气地
 - [ ] expell v.驱逐
 - [ ] solidarity n.团结
-- [ ] integral adj.完整的，不可或缺的 n.整体，积分
+- [x] integral adj.完整的，不可或缺的 n.整体，积分
+    - [x] integrate v.整合，合并 adj.完全的
 - [ ] illusion n.幻想，错觉
 - [ ] inherent adj.固有的，内在的
 - [ ] contradiction n.不一致，矛盾，反驳
@@ -295,4 +296,44 @@ comment: true
 - [ ] reincarnation n.灵魂转世化身
 - [ ] reverse v.使反转，颠倒，撤销，废除 v.反面，倒挡，相反的情况
 - [ ] merchandise n.相关商品 v.推销
-- [ ] 
+
+---
+
+### July 21
+
+- [ ] manufacturing n.制造业，工业 adj.制造（业）的，生产的
+- [ ] cradle n.摇篮，发源地 v.轻轻抱着
+- [ ] burgeon v.迅速发展，激增
+- [ ] revenue n.收入，收益
+- [ ] cutting-edge adj.尖端的，先进的
+- [ ] titanium n.钛
+- [ ] reinforce v.加强，加固
+- [ ] composite adj.复合的，合成的 n.复合材料，混合物
+- [ ] ample adj.充足的，足够的，丰满的
+- [ ] emerge v.出现，浮现，暴露
+- [ ] productivity n.生产率，生产效率
+- [ ] multiplier n.乘数，倍数
+- [ ] process v.处理，审阅，加工，运算，缓缓前进
+- [ ] monopoly n.垄断，专利（品），独占
+- [ ] turbine n.涡轮（机），汽轮机
+- [ ] formulate v.制定，规划，准备，构想
+- [ ] respective adj.分别的，各自的
+- [ ] expeditiously adv.迅速地，敏捷地
+- [ ] cluster v.聚集，群聚 n.集群
+- [ ] leverage v.利用，杠杆
+- [ ] instance n.例子，实例 v.举例
+    - [ ] for instance 例如
+- [ ] underway adj.进行中的，启动的
+- [ ] sluggish adj.缓慢的
+- [ ] component n.部分，成分，组成部分
+- [ ] insufficient adj.不足的，不充分的，不够重要的
+- [ ] drain v.排水，使耗尽，流出 n.排水管，下水道，消耗
+- [ ] vitality n.活力，生命力，热情
+- [ ] hinder v.妨碍，阻挡 adj.后面的
+- [ ] intensify v.加强，增强，强化
+- [ ] bottleneck n.瓶颈，阻碍
+- [ ] ongoing adj.持续存在的，不断发展的 n.进行，前进，发展
+- [ ] catalytic adj.促进性的，起催化作用的
+- [ ] synergy n.协同作用
+- [ ] inject v.注射，添加，增加
+- [ ] dynamism n.活力，精力，劲头
