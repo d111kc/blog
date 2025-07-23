@@ -357,4 +357,37 @@ comment: true
 - [x] scam n.&v.欺诈，诈骗
 - [ ] interface v.连接 n.接口，界面
 - [x] cognitive adh.认知的，认识的，感知的
+
+---
+
+### July 23
+
+- [ ] lychee n.荔枝
+- [x] leap v.跳跃，剧增，猛涨 （过去分词leapt）
+- [ ] gross v.总共赚得，总收入为
+- [x] exceed v.超过，超越……的限制
+- [x] streaming n.数据的流播
+    - [x] stream v.流动
+- [x] thoughtful adj.周到的，深思熟虑的，深思的
+- [x] underlying adj.根本的，潜在的，隐含的
+    - [x] underlie v.构成……的基础，作为……的原因
+- [ ] underperform v.表现不佳
+- [ ] intrigue v.密谋，激起……的兴趣 n.阴谋，引人入胜的情节
+- [x] discern v.识别，察觉出，了解
+    - [x] discerning adj.敏锐的，有洞察力的，有眼力的
+- [ ] originality n.创意
+- [x] formula n.公式，方法，方案
+- [x] budget n.&v.预算
+- [ ] genre n.体裁，类型，风俗画 adj.风俗画的
+- [x] realism n.现实主义
+- [x] boom v.激增，迅速发展
+- [ ] belie v.掩饰
+- [x] compensate v.补偿，弥补
+- [x] executive n.经理，管理人员
+- [x] mechanism n.机制，构造
+- [ ] incubator n.孵化器，恒温箱
+- [x] passive adj.被动的，消极的 n.被动语态
+- [ ] sensation n.轰动，经历，会议，直觉
+- [ ] authenticity n.真实性，确实性
+- [ ] complacency n.自满，自鸣得意
 - [ ] 
