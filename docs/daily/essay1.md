@@ -1,11 +1,6 @@
 ---
 date: 2025-03-15
 title: 随笔1
-slug: essay1
-categories:
-  - 随笔
-tag:
-  - None
 ---
 
 # 随笔1

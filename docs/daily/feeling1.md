@@ -1,11 +1,6 @@
 ---
 date: 2025-03-19
 title: 英语四级、计算机二级，我来了
-slug: feeling1
-categories:
-  - 随想随说
-tag:
-  - None
 ---
 
 # 英语四级、计算机二级，我来了
