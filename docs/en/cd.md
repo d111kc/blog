@@ -20,6 +20,7 @@ comment: true
 - [x] aspiration n.渴望，抱负，志向
 - [ ] encompass v.包含，涉及
 - [ ] subsidy n.补贴
+    - [ ] subsidize v.资助，补助
 - [x] initiative n.倡议
 - [ ] maternity n.怀孕
 - [ ] maternal adj.母亲的
@@ -390,4 +391,22 @@ comment: true
 - [ ] sensation n.轰动，经历，会议，直觉
 - [ ] authenticity n.真实性，确实性
 - [ ] complacency n.自满，自鸣得意
+
+### July 24
+
+- [x] bolster v.加强，改善
+- [ ] spearhead v.带头做，做……的先锋，领先突击
+- [x] align v.校准，排列，使一致
+- [x] urban adj.城市的，城镇的，都市的
+- [x] deputy n.副职，代理，议员 adj.副的
+- [x] conference n.会议，研讨会
+- [x] cite v.引用，举例，提及
+- [ ] unmanned adj.无人操作的
+- [ ] aerial adj.空中的，从飞机上的 n.天线
+- [ ] swarm n.一大群，一大批 v.成群的来回移动
+- [ ] UAV 无人机 unmanned aerial vehicle
+- [x] customize v.定制
+- [x] catalog n.目录，系列，种类 v.编目录，登记分类
+- [x] prompt v.&n.提示，鼓励，促使
+- [ ] tailor v.专门制作，定做
 - [ ] 
