@@ -409,4 +409,28 @@ comment: true
 - [x] catalog n.目录，系列，种类 v.编目录，登记分类
 - [x] prompt v.&n.提示，鼓励，促使
 - [ ] tailor v.专门制作，定做
+
+---
+
+### July 25
+
+- [x] profile n.简介，轮廓 v.概述，写简介
+- [ ] project v.&n.规划，预测，放映，体现，投射
+- [x] pose v.造成，产生，引起，提问，摆好姿势
+- [ ] don v.穿上，戴上，披上
+- [ ] expo n.博览会，展览会
+- [ ] optics n.光学
+- [ ] op n.手术，作战，军事行动
+- [ ] stark adj.明显的，鲜明的，完全的
+- [ ] excerpt n.&v.摘录，摘要，节选，引用
+- [ ] blunt n.钝器 adj.迟钝的，不锋利的，直言的 v.变钝，使减弱
+- [ ] bare adj.裸露的 v.使赤裸，揭露
+- [ ] calculus n.微积分
+- [ ] reliant adj.依靠的，依赖性的
+- [ ] plainly adv.清除地，明显地，直截了当地，简朴地
+- [ ] relinquish v.放弃
+- [ ] lucrative adj.有利可图的
+- [x] simultaneously adv.同时，急切地
+- [x] escalate v.逐步扩大，加剧
+- [ ] whim n.心血来潮，突发奇想，一时的兴致
 - [ ] 
